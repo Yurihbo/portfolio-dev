@@ -155,7 +155,7 @@ const App = () => {
         'Animações suaves',
         'Design moderno com gradientes'
       ]
-    }
+    },
 
     {
   id: 3,
