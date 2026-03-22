@@ -156,6 +156,32 @@ const App = () => {
         'Design moderno com gradientes'
       ]
     }
+
+    {
+  id: 3,
+  title: 'Gestão de Gastos',
+  description: 'Aplicação web progressiva (PWA) para controle financeiro pessoal, com gerenciamento de receitas e despesas, visualização de dados através de gráficos interativos e suporte offline com cache inteligente.',
+  image: projectImage1,
+  technologies: [
+    'JavaScript (ES6+)',
+    'HTML5',
+    'CSS3',
+    'PWA',
+    'Service Workers',
+    'LocalStorage',
+    'Charts.js',
+    'Responsive Design'
+  ],
+  liveUrl: 'https://yurihbo.github.io/gestao-gastos/',
+  githubUrl: 'https://github.com/Yurihbo/gestao-gastos',
+  features: [
+    'Controle de receitas e despesas com edição e exclusão',
+    'Visualização de gastos mensais com gráficos interativos',
+    'Cálculo automático de saldo e organização financeira',
+    'Funcionamento offline com cache (PWA)',
+    'Interface responsiva e otimizada para mobile'
+  ]
+}
   ];
 
   return (
