@@ -6,7 +6,7 @@ Aqui você encontra meus projetos, minhas habilidades e um pouco sobre minha jor
 
 
 ## 🔗 Acesse o site
-👉 [Portfólio Online](https://yurihbo.github.io/Portfolio-dev/)
+👉 [Portfólio Online](https://yurihbo.github.io/portfolio-dev/)
 
 
 👨‍💻 Sobre mim
